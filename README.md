@@ -76,7 +76,7 @@ To execute the project:
 
 2. Navigate to the project folder
    ```bash
-   cd MyGame
+   cd .\my-clojure-game\MyGame\
 
 3. Run the project using Clojure
    ```bash
